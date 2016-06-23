@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+		
+		<link rel='stylesheet' href='iconfont/iconfont.css'>
+		<!--<link rel='stylesheet' href='css/bootstrap.min.css'/>-->
+		<link rel='stylesheet' href='kaola.css'/>
+	</head>
+	<body style='background:#f9f9f9;'>
+		<header>
+			<ul>
+				<li><a href="#">All</a></li>
+				<li><a href="#">Paragraph</a></li>
+				<li><a href="#">Paragraph</a></li>
+				<li><a href="#">Paragraph</a></li>
+				<div style="clear:both;"></div>
+			</ul>
+			
+		</header>
+		<article>
+				<div class='tb'>
+					<div class="tr">
+						<div class='circle'>
+							<i class='iconfont'>&#xe607;</i>
+						</div>
+					</div>
+					<h3>Scarabaeidae</h3>
+					<p>Rezonum & Collectoris</p>
+					<span><i class='iconfont'>&#xe602;</i>678</span>
+				</div>
+				<div class='tbs'>
+					<div class="ty">
+						<div class='circle1'></div>
+					</div>
+					<h3>Scarabaeidae</h3>
+					<p>Rezonum & Collectoris</p>
+					<span><i class='iconfont'>&#xe602;</i>678</span>
+				</div>
+				<div class="tc">
+					<div class="fy">
+						<div class='circle2'>
+							<i class='iconfont'>&#xe609;</i>
+						</div>
+					</div>
+					<div>
+						<h3 style="width:40%;float:left;">Scarabaeidae</h3>
+						<div class='spans' style="width:40%;float:right;"><i class='iconfont'>&#xe604;</i><i class='iconfont'>&#xe604;</i><i class='iconfont'>&#xe604;</i><i class='iconfont'>&#xe604;</i></div>
+					</div>
+					<div style='clear:both;'></div>
+					<p>Rezonum & Collectoris</p>
+					<button type="button" class="btn btn-danger">BUY IT NOW</button>
+				</div>
+				<div class="bt">
+					<div class="ip">
+						<div class='circle3'>
+							<i class='iconfont'>&#xe604;</i>
+						</div>
+					</div>
+					<div>
+						<h3 style="width:42%;float:left;">Scarabaeidae</h3>
+						<div class='spans' style="width:35%;float:left;margin-left:20px;"><i class='iconfont'>&#xe604;</i><i class='iconfont'>&#xe604;</i><i class='iconfont'>&#xe604;</i><i class='iconfont'>&#xe604;</i></div>
+					</div>	
+					<div style='clear:both;'></div>
+					<p>Rezonum & Collectoris</p>
+					
+				    <button type="button" class="btn btn-danger">BUY IT NOW</button>	
+				</div>
+		</article>
+	</body>
+</html>
